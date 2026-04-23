@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "session-handoff": {
+      "source": "MaxAgain/Claude-Skills",
+      "sourceType": "github",
+      "computedHash": "c8d2e3d6ee9ded209bd0dc45d3eb96be180ba1e4f2e4b241ecb7c6292d990e55"
+    }
+  }
+}
